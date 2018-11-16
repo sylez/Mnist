@@ -19,4 +19,4 @@ Use various methods on mnist dataset.
 |architecture | method | accuracy |
 |----|----|----|
 |conv-4,fc-1|batch norm, SGD with momentum, learning rate decay | 99.44|
-|capsule net|  |99.7 |
+|capsule net| Adam |99.7 |
