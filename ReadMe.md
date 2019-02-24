@@ -1,5 +1,5 @@
 # Introduction
-Patter recognition homework.  
+Pattern recognition homework.  
 Use various methods on mnist dataset.
 # Method
 ## KNN
